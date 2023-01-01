@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wickneber
+- 👀 I’m interested in Robotics, AI, Reinforcement Learning, Embedded Systems, PCB Design
+- 🌱 I’m currently learning Robotics and Reinforcement Learning
+- 📫 How to reach me Email: nick.weber77@gmail.com
